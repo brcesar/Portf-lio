@@ -1,5 +1,4 @@
-![GitHub Logo](C:\Users\bcsla\OneDrive\Área de Trabalho/1.png)
-Format: ![Alt Text](url)
+![Alt text](relative/C:\Users\bcsla\OneDrive\Área de Trabalho/1.png/to/img.jpg?raw=true "Title")
 
 # Data Science Portfolio 
 Bruno C. da Silva
