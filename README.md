@@ -1,9 +1,9 @@
 # Data Science Portfólio 
-Supervised Learning - classification problem
+Supervised Learning (Classification Problem)
 - This repository containing  a data science project completed by me for self learning purposes.
 ## Full Project: Credit Card Payment Risk Analysis
 
-This is a supervised statistical/machine learning model (classification) to predict which clients is able to honor their debt.
+This is a supervised statistical/machine learning model to predict which clients is able to honor their debt.
 It was used Python 3.8 and jupyter notebook. The following libraries have been used:
   
 - Pandas
