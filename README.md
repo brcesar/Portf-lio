@@ -1,7 +1,6 @@
-![Alt text](relative/C:\Users\bcsla\OneDrive\Área de Trabalho/1.png/to/img.jpg?raw=true "Title")
-
 # Data Science Portfolio 
-Bruno C. da Silva
+*Bruno C. da Silva*
+
 This repository containing a data science project, presented in the form of jupyter Notebooks, completed by me for academic, self learning, and hobby purposes.
 
 ## Projects
