@@ -1,5 +1,5 @@
 # Data Science Portfólio 
-Supervised Learning 
+Supervised Learning - classification problem
 - This repository containing  a data science project completed by me for self learning purposes.
 ## Full Project: Credit Card Payment Risk Analysis
 
