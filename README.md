@@ -9,14 +9,14 @@ This repository is currently under construction. Thus, as soon as possible new p
 
 ## Projects
 
-- Machine Learning
+### Machine Learning
 
     - [Supervised Learning (Classification):](https://github.com/brcesar/Portfolio/tree/master/Supervised%20Learning%20:%20Classification%20-%20Credit%20Card%20Risk%20Evaluation) Testing out several different supervised learning algorithms to build a model to detect the clients that will not be able to pay their credit card bill. The goal is to predict if the client will default or not.
 
 *Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Numpy, Imblearn, Pickle*
 
 
-- Micro Projects in pyhton
+### Micro Projects in pyhton
 
   - Titanic Dataset - Exploratory Analysis:
   
