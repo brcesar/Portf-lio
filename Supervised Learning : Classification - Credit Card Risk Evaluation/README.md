@@ -1,6 +1,6 @@
 ## Full Project: Credit Card Payment Risk Analysis
 
-This is a supervised statistical/machine learning model to predict which client is able to honor their debt.
+This is a supervised statistical/machine learning model to predict which clients are able to honor their debt.
 It was used Python 3.8 and jupyter notebook. The following libraries have been used:
   
 - Pandas
