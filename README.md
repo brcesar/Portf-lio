@@ -1,7 +1,7 @@
 # Data Science Portfólio 
 Supervised Learning 
 - This repository containing  a data science project completed by me for self learning purposes.
-# Full Project: Loan Payment Risk Analysis
+## Full Project: Loan Payment Risk Analysis
 
 This is a supervised statistical/machine learning model (classification) to predict which clients is able to honor their debt.
 It was used Python 3.8 and jupyter notebook. The following libraries have been used:
@@ -31,7 +31,7 @@ Dataset:
 
 - False - Who has paid the bill
 - True - Who has not been able to pay the bill
-## Workflow
+### Workflow
 
    ### (Part I) - Exploratory and Preprocessing Data Analysis
 
