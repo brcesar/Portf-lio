@@ -77,7 +77,7 @@ This is a dataset downloaded from the github and have information about clients 
     - Setting the combined model (kNN and Random Forest) and training
 - #### 12 Evaluating the model's real performance (test dataset)
     - Making predictions in the test dataset
-    - The final performance
+    - Confusion Matrices: the final performance
     - Classification report for Random Forest
     - Classification report for kNN
     -Classification report for the combined models
