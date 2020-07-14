@@ -19,6 +19,11 @@ We are going to use the models:
 - Naive Bayes
 - Support Vector Machines (SVM)
 
+Dataset Information: this is a dataset obtained from GitHub with client's information of a credit card company.
+ - 26 features
+ - 64591 samples
+ - 2 classes
+
 #### The goal is to predict the default target:
 
 - False - Who has paid the bill (here is the negative)
