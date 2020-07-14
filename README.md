@@ -1,6 +1,6 @@
 # Data Science Portfólio 
 Supervised Learning 
-- This Repository containing portfolio of a data science project completed by me for self learning purposes.
+- This repository containing  a data science project completed by me for self learning purposes.
 # Full Project: Loan Payment Risk Analysis
 
 This is a supervised statistical/machine learning model (classification) to predict which clients is able to honor their debt.
