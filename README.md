@@ -20,7 +20,8 @@ We are going to use the models:
 - Naive Bayes
 - Support Vector Machines (SVM)
 
-This is a downloaded from the github and have information about clients of the f Dataset about Information:
+This is a dataset downloaded from the github and have information about clients and which client have defaulted his loan.
+Dataset:
  - 26 features
  - 64591 samples
  - 2 classes
