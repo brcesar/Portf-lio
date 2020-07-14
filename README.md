@@ -80,7 +80,7 @@ This is a dataset downloaded from the github and have information about clients 
     - Confusion Matrices: the final performance
     - Classification report for Random Forest
     - Classification report for kNN
-    -Classification report for the combined models
+    - Classification report for the combined models
 - #### 13 Summary
 - #### 14 Saving the Classifier (Final Model)
     - Saving the best trained model
