@@ -24,10 +24,10 @@ This is a dataset downloaded from the github and have information about clients 
  - 64591 samples
  - 2 classes
  
-#### The goal is to predict the default target:
+**The goal is to predict the default target:**
 
-- False - Who has paid the bill
-- True - Who has not been able to pay the bill
+- **False** - Who has paid the bill
+- **True** - Who has not been able to pay the bill
 ### Workflow
 
    ### (Part I) - Exploratory and Preprocessing Data Analysis
