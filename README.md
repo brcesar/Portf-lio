@@ -22,7 +22,7 @@ We are going to use the models:
 - Support Vector Machines (SVM)
 
 This is a dataset downloaded from the github and have information about clients and which client has defaulted his credit card bill.
-Dataset:
+
  - 26 features
  - 64591 samples
  - 2 classes
