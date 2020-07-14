@@ -1,7 +1,7 @@
 # Data Science Portfolio 
 *Bruno C. da Silva*
 
-This repository containing a data science project, presented in the form of jupyter Notebooks, completed by me for self learning and hobby purposes.
+This repository containing data science projects, presented in the form of jupyter Notebooks, completed by me for self learning and hobby purposes.
 
 ## Projects
 
