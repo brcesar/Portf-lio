@@ -18,7 +18,7 @@ We are going to use the models:
 - Naive Bayes
 - Support Vector Machines (SVM)
 
-This is a dataset downloaded from the github and have information about clients and which client has defaulted his credit card bill.
+This is a dataset downloaded from github and have information about clients and which client has defaulted his credit card bill.
 
  - 26 features
  - 64591 samples
