@@ -1,4 +1,8 @@
+![GitHub Logo](C:\Users\bcsla\OneDrive\Área de Trabalho/1.png)
+Format: ![Alt Text](url)
+
 # Data Science Portfolio 
+Bruno C. da Silva
 This repository containing a data science project, presented in the form of jupyter Notebooks, completed by me for academic, self learning, and hobby purposes.
 
 ## Projects
@@ -16,7 +20,7 @@ This repository containing a data science project, presented in the form of jupy
   
  ## About me
  
- I am physicist by background who enjoys working with modelling. I am very interested in Data Science, focusing on the results that the models can provide to improve the business achievements and deliver the best guidance, data solutions and insights. If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, please contact me by email at br.cesar88@gmail.com or [linkedin] (https://www.linkedin.com/in/bruno-c-da-silva-6ba107136/)
+I am physicist by background who enjoys working with modelling. I am very interested in Data Science, focusing on the results that the models can provide to improve the business achievements and deliver the best guidance, data solutions and insights. If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, please contact me by email at br.cesar88@gmail.com or [linkedin](https://www.linkedin.com/in/bruno-c-da-silva-6ba107136/)
 
 -PhD in Applied Physics
 *University of Campinas, UNICAMP - Brazil*
