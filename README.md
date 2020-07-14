@@ -1,7 +1,7 @@
 # Data Science Portfólio 
 Supervised Learning 
 - This repository containing  a data science project completed by me for self learning purposes.
-## Full Project: Loan Payment Risk Analysis
+## Full Project: Credit Card Payment Risk Analysis
 
 This is a supervised statistical/machine learning model (classification) to predict which clients is able to honor their debt.
 It was used Python 3.8 and jupyter notebook. The following libraries have been used:
@@ -21,7 +21,7 @@ We are going to use the models:
 - Naive Bayes
 - Support Vector Machines (SVM)
 
-This is a dataset downloaded from the github and have information about clients and which client have defaulted his loan.
+This is a dataset downloaded from the github and have information about clients and which client has defaulted his credit card bill.
 Dataset:
  - 26 features
  - 64591 samples
