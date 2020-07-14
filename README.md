@@ -2,7 +2,7 @@
 *Bruno C. da Silva*
 
 This repository contains data science projects, presented in the form of jupyter notebooks, completed by me for self learning and hobby purposes; and also 
-to show a little bit about my work and data science skills, implemented in python.
+to show a little bit about my work and data science skills, using mainly python.
 
 This repository is currently under construction. See you soon with more projects.<br/>
 
