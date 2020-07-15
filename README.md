@@ -19,7 +19,7 @@ This repository is currently under construction. Thus, as soon as possible new p
  
 I am a physicist by training who enjoys working with modelling and pratical subjects. I am very interested in Data Science, scpecially in how the results that the models can provide could improve business achievements, deliver the best guidance, data solutions and insights. If you liked what you have seen, want to have a chat with me about the portfolio, work opportunities or collaboration, please contact me by email at br.cesar88@gmail.com or [linkedin.](https://www.linkedin.com/in/bruno-c-da-silva-6ba107136/)
 
-- PhD in Applied Physics<br/>
+- PhD in Science (Applied Physics)<br/>
 *University of Campinas, UNICAMP - Brazil*
 - Master in Physics<br/>
 *University of Campinas, UNICAMP - Brazil*
