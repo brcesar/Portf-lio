@@ -67,7 +67,7 @@ Dataset Information: this is a dataset obtained from GitHub with client's inform
 - #### 9 Cross-validation (choosing the best models)
     - Estimating the Recall using a 10-Fold cross-validation
 - #### 10 Perfoming the hyperparameter optimization for the best models
-    - Using 5-Fold Cross-Validation in RandomizedSearchCV
+    - Using 10-Fold Cross-Validation in RandomizedSearchCV
     - Training the model with the help of the best hyperparameters
 - #### 11 Combining the best two models to perhaps boost the performance
     - Setting the combined model (kNN and Random Forest) and training
